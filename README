@@ -1,4 +1,4 @@
-Test2333
+
 Internationalization
 
 These files are internationalized the same way as
@@ -15,7 +15,7 @@ Symbol files should be carefully prepared.
 1. The SVG should be clean: No unnecessary transforms, sensible path
    data, etc. Do a manual inspection. Remove cruft like guide-lines,
    grids, etc.
- 
+
 2. Avoid adding unnecessary style properties in the symbol elements;
    this prevents the user from over-riding the default styling by
    specifying the style on the <use> element. Default styling can be
@@ -32,6 +32,3 @@ Symbol files should be carefully prepared.
 
 5. Add a section with <use> elements to demonstrate the symbols is the
    file is opened by itself.
-
-
-
